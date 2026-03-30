@@ -62,8 +62,8 @@
 <br>
 <br>
 
-<a href="https://www.linkedin.com/in/comuza-developer-b93bb73b8/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sigue_a_Comuza-FFC8C8?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=2E0008" />
+<a href="https://github.com/Comuza">
+  <img src="https://img.shields.io/badge/Sigue_a_mi_cuenta_principal!!!-FFC8C8?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=2E0008" />
 </a>
 
 ---
