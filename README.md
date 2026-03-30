@@ -63,7 +63,7 @@
 <br>
 
 <a href="https://github.com/Comuza">
-  <img src="https://img.shields.io/badge/GitHub-Sigue_a_mi_cuenta_principal!!!-FFC8C8?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=2E0008" />
+  <img src="https://img.shields.io/badge/GitHub-Sigue_mi_cuenta_principal!!!-FFC8C8?style=for-the-badge&logo=github&logoColor=000000&labelColor=2E0008" />
 </a>
 
 ---
