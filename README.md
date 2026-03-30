@@ -11,7 +11,7 @@
 
 ---
 
-# <p align="center">ComuzaMobile • The Cute Cat</p>
+# <p align="center">ComuzaMobile • The prince of the Null</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC8C8&center=true&vCenter=true&width=500&lines=Cuenta+secundaria;Cute;Aprendiendo+en+privado;Privacidad+y+curiosidad"/>
